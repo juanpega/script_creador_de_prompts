@@ -1,0 +1,19 @@
+{
+    "Título": [
+        "Script de Python para automatizar la generación de informes"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de generar informes con análisis descriptivos, resultados de técnicas estadísticas y gráficos generados con una librería de visualización."
+    ],
+    "Inputs": [
+        "datos_input",
+        "técnica_estadística",
+        "librería_visualización"
+    ],
+    "Prompt": [
+        "Desarrollar un script de Python para automatizar la generación de informes basados en +input_1+ . Los informes deben incluir análisis descriptivos, resultados de +input_2+  y gráficos generados con +input_3+ . Proporcione ejemplos de informes personalizados a partir de diferentes conjuntos de datos y condiciones."
+    ],
+    "Actúa como": [
+        "Actúa como un recurso para la automatización de informes con análisis descriptivos, resultados de técnicas estadísticas y gráficos generados con una librería de visualización."
+    ]
+}

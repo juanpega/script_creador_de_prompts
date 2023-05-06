@@ -1,0 +1,18 @@
+{
+    "Título": [
+        "Búsqueda de información en la base de datos"
+    ],
+    "Descripción": [
+        "El objetivo de esta función es el de buscar un tipo de información específico en la base de datos y devolver resultados basados en un criterio de filtrado."
+    ],
+    "Inputs": [
+        "tipo_de_información",
+        "criterio_de_filtrado"
+    ],
+    "Prompt": [
+        "Implementar una función que permita buscar +input_1+ en la base de datos utilizando FastAPI y devuelva resultados basados en +input_2+"
+    ],
+    "Actúa como": [
+        "Actúa como una herramienta para buscar información."
+    ]
+}
